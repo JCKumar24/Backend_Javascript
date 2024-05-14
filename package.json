@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "JC kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
 }
